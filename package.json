@@ -1,0 +1,35 @@
+{
+  "name": "flowstate-theme-dark",
+  "displayName": "FlowState Theme Dark",
+  "description": "A modern, sophisticated dark theme for VS Code with rich syntax highlighting, semantic token support, and comprehensive UI customization for an enhanced coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "keywords": [
+    "flowstate",
+    "flowstate theme",
+    "flowstate dark",
+    "flowstate dark theme",
+    "flowstate dark syntax highlighting",
+    "flowstate dark semantic token support",
+    "flowstate dark UI customization",
+    "theme",
+    "dark theme",
+    "syntax highlighting",
+    "semantic token support",
+    "UI customization"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FlowState Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FlowState Dark-color-theme.json"
+      }
+    ]
+  }
+}
