@@ -3,7 +3,7 @@
   "displayName": "FlowState Theme Dark",
   "publisher": "FlowStateSoft",
   "description": "A modern, sophisticated dark theme for VS Code with rich syntax highlighting, semantic token support, and comprehensive UI customization for an enhanced coding experience.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/VHFroesVianna/FlowState-Theme-Dark.git"
@@ -11,6 +11,7 @@
   "engines": {
     "vscode": "^1.104.0"
   },
+  "icon": "logo.png",
   "keywords": [
     "flowstate",
     "flowstate theme",
